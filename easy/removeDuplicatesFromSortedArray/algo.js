@@ -32,3 +32,23 @@
  * Final array: nums = [0,1,2,3,4,_,_,_,_,_]
  * Explanation: The first five elements are the unique values 0,1,2,3,4.
  */
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var removeDuplicates = function (nums) {
+  const track = {};
+  let k = 0;
+  for (let i = nums.length - 1; i >= 0; i--) {
+    track[nums[i]] = track[nums[i]] ? track[nums[i]] + 1 : 1;
+    if (track[nums[i]] > 1) {
+      nums.splice(i, 1);
+      nums.push('_');
+    } else {
+      k++;
+    }
+  }
+  console.log(nums);
+  console.log(k);
+  return k;
+};
