@@ -54,7 +54,6 @@ This repository contains my solutions to various LeetCode problems. It serves as
 ```
 🎯 Goal: 200 Problems
 📈 Current: 4 Problems
-⭐ Progress: 4/200
 📊 4/200  [▓░░░░░░░░░] 2.0%
 ```
 
