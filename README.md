@@ -3,9 +3,9 @@
 <div align="center">
   <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="LeetCode Logo" width="400"/>
   
-  ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-25-brightgreen.svg)
+  ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-26-brightgreen.svg)
   ![Easy](https://img.shields.io/badge/Easy-21-success.svg)
-  ![Medium](https://img.shields.io/badge/Medium-4-yellow.svg)
+  ![Medium](https://img.shields.io/badge/Medium-5-yellow.svg)
   ![Hard](https://img.shields.io/badge/Hard-0-red.svg)
 </div>
 
@@ -60,6 +60,7 @@ This repository contains my solutions to various LeetCode problems. It serves as
 | 55   | [Jump Game](https://leetcode.com/problems/jump-game/)                                                   | [JavaScript](./medium/jumpGame/algo.js)                   |
 | 122  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [JavaScript](./medium/bestTimeToBuyAndSellStock2/algo.js) |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                   | [JavaScript](./medium/reverseWordsInAString/algo.js)      |
+| 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                             | [JavaScript](./medium/rotateArray/algo.js)                |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)             | [JavaScript](./medium/removeStarsFromAString/algo.js)     |
 
 ## 🎯 Goals
@@ -74,15 +75,15 @@ This repository contains my solutions to various LeetCode problems. It serves as
 
 ```
 🎯 Goal: 200 Problems
-📈 Current: 25 Problems
-📊 25/200 [▓▓░░░░░░░░] 12.5%
+📈 Current: 26 Problems
+📊 26/200 [▓▓░░░░░░░░] 13%
 ```
 
 ### Difficulty Breakdown
 
 ```
 🟢 Easy:    21
-🟡 Medium:  4
+🟡 Medium:  5
 🔴 Hard:    0
 ```
 
