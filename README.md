@@ -11,7 +11,7 @@
 
 ## 📝 About
 
-This repository contains my solutions to various LeetCode problems. It serves as both a personal archive and a showcase of my problem-solving journey. Each solution includes detailed explanations and thought processes to help understand the approach.
+This repository contains my solutions to various LeetCode problems. It serves as both a personal archive and a showcase of my problem-solving journey.
 
 ## 🗂 Repository Structure
 
