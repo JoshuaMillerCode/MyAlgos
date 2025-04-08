@@ -3,8 +3,8 @@
 <div align="center">
   <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="LeetCode Logo" width="400"/>
   
-  ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-26-brightgreen.svg)
-  ![Easy](https://img.shields.io/badge/Easy-21-success.svg)
+  ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-27-brightgreen.svg)
+  ![Easy](https://img.shields.io/badge/Easy-22-success.svg)
   ![Medium](https://img.shields.io/badge/Medium-5-yellow.svg)
   ![Hard](https://img.shields.io/badge/Hard-0-red.svg)
 </div>
@@ -37,6 +37,7 @@ This repository contains my solutions to various LeetCode problems. It serves as
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)       | [JavaScript](./easy/removeDuplicatesFromSortedArray/algo.js)    |
 | 27   | [Remove Element](https://leetcode.com/problems/remove-element/)                                                 | [JavaScript](./easy/removeElement/algo.js)                      |
 | 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)         | [JavaScript](./easy/removeDuplicatesFromSortedList/algo.js)     |
+| 88   | [Merged Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                        | [JavaScript](./easy/mergeSortedArrays//algo.js)                 |
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree/)                                                           | [JavaScript](./easy/sameTree/algo.js)                           |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)               | [JavaScript](./easy/bestTimeToBuyAndSellStock/algo.js)          |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                             | [JavaScript](./easy/validPalindrome/algo.js)                    |
@@ -75,14 +76,14 @@ This repository contains my solutions to various LeetCode problems. It serves as
 
 ```
 🎯 Goal: 200 Problems
-📈 Current: 26 Problems
-📊 26/200 [▓▓░░░░░░░░] 13%
+📈 Current: 27 Problems
+📊 26/200 [▓▓░░░░░░░░] 13.5%
 ```
 
 ### Difficulty Breakdown
 
 ```
-🟢 Easy:    21
+🟢 Easy:    22
 🟡 Medium:  5
 🔴 Hard:    0
 ```
